@@ -1,6 +1,6 @@
-import time #Used to measure how long an operation takes.
-import matplotlib.pyplot as plt #Used for plotting graphs
-import math #Provides mathematical functions like sqrt() for primality testing.
+import time  #Used to measure how long an operation takes.
+import matplotlib.pyplot as plt  #Used for plotting graphs
+import math  #Provides mathematical functions like sqrt() for primality testing.
 
 # Efficient cube root finder using binary search
 def cube_root(n):
